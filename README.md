@@ -140,7 +140,7 @@
 
 
 
-<p>请根据您的用户端的实际情况，使用邀请码<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://www.afunv.com/register?aff=wqQx3" target="_blank">注册</a>后可从<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://www.afunv.com/register?aff=wqQx3" target="_blank">官网首页</a>下载各平台v2ray客户端，或点击以下心阶全平台订阅教程链接进入，查看教程进行订阅。<br>传送门：<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://www.afunv.com/view/download.html" target="_blank">阿凡提平台客户端下载及订阅图文教程</a></p>
+<p>请根据您的用户端的实际情况，使用邀请码<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://r6d.cn/tDq5" target="_blank">注册</a>后可从<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://r6d.cn/tDq5" target="_blank">官网首页</a>下载各平台v2ray客户端，或点击以下心阶全平台订阅教程链接进入，查看教程进行订阅。</p>
 
 
 
