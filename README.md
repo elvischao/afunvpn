@@ -12,11 +12,11 @@
 
 
 
-<p>根据<a href="https://www.afunv.com/register?aff=461">AFunVPN</a>的简介，这是一家长期走中高端路线的<strong>V2Ray</strong>机场。但实际对比下来，它的性价比是相当高的，提供的流量也十分的充足。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
+<p>根据<a href="http://r6d.cn/tDq5">AFunVPN</a>的简介，这是一家长期走中高端路线的<strong>V2Ray</strong>机场。但实际对比下来，它的性价比是相当高的，提供的流量也十分的充足。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
 
 
 
-<p>您也可以<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://www.afunv.com/register?aff=461" target="_blank">点击链接</a>，进入AFunVPN的网站访问页面，直接注册并进行了解。</p>
+<p>您也可以<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://r6d.cn/tDq5" target="_blank">点击链接</a>，进入AFunVPN的网站访问页面，直接注册并进行了解。</p>
 
 
 
@@ -32,7 +32,7 @@
 
 
 
-<p>也可以直接点击我的<a href="https://www.afunv.com/register?aff=461" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">邀请链接</a>，进入注册。</p>
+<p>也可以直接点击我的<a href="http://r6d.cn/tDq5" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">邀请链接</a>，进入注册。</p>
 
 
 
@@ -40,7 +40,7 @@
 
 
 
-<p>通过本站链接进入<a href="https://www.afunv.com/register?aff=461">AFunVPN</a>，购买时使用优惠码，全部套餐优惠享受。</p>
+<p>通过本站链接进入<a href="http://r6d.cn/tDq5">AFunVPN</a>，购买时使用优惠码，全部套餐优惠享受。</p>
 
 
 
@@ -132,7 +132,7 @@
 
 
 
-<p><strong>注册及购买方式，<a href="https://www.afunv.com/register?aff=wqQx3">点击链接进入</a>，进行注册并购买相关服务。</strong></p>
+<p><strong>注册及购买方式，<a href="http://r6d.cn/tDq5">点击链接进入</a>，进行注册并购买相关服务。</strong></p>
 
 
 
@@ -148,7 +148,7 @@
 
 
 
-<ul><li>注册后，在用户面板首页，你可以找到各个客户端的下载链接及相关配置教程。（由于苹果的尿性，iOS可能需要自行在苹果商城购买软件）</li><li>订阅地址及节点信息请勿截图发到其他地方，请务必打码。</li><li>由于众所周知的原因，官网域名会被迫更换，请务必记下用户首页上的多个域名，以免失联，或从本文中的链接访问。</li><li>售后公告请关注<a rel="noreferrer noopener" aria-label="TG频道（在新窗口打开）" href="https://t.me/afunvpn" target="_blank"><strong>TG</strong>频道</a>，建议加入获取最新消息。</li><li>交流群关注<a href="https://t.me/AFunv" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">TG群</a>，建议加入获取最新消息。</li><li>若有充值、使用问题，请联系<a href="https://t.me/Scalaer" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">TG群管理员</a>，也可以通过工单系统提交问题（直接联系管理员会快一点）。</li></ul>
+<ul><li>注册后，在用户面板首页，你可以找到各个客户端的下载链接及相关配置教程。（由于苹果的尿性，iOS可能需要自行在苹果商城购买软件）</li><li>订阅地址及节点信息请勿截图发到其他地方，请务必打码。</li><li>由于众所周知的原因，官网域名会被迫更换，请务必记下用户首页上的多个域名，以免失联，或从本文中的链接访问。</li><li>售后公告请关注<a rel="noreferrer noopener" aria-label="TG频道（在新窗口打开）" href="https://t.me/afunvpn" target="_blank"><strong>TG</strong>频道</a>，建议加入获取最新消息。</li></ul>
 
 
 
