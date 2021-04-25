@@ -12,11 +12,11 @@
 
 
 
-<p>根据<a href="http://r6d.cn/tDq5">AFunVPN</a>的简介，这是一家长期走中高端路线的<strong>V2Ray</strong>机场。但实际对比下来，它的性价比是相当高的，提供的流量也十分的充足。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
+<p>根据<a href="https://dwz.afunv.top/3">AFunVPN</a>的简介，这是一家长期走中高端路线的<strong>V2Ray</strong>机场。但实际对比下来，它的性价比是相当高的，提供的流量也十分的充足。这家机场有着一些特别的优点，之后我慢慢介绍。</p>
 
 
 
-<p>您也可以<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://r6d.cn/tDq5" target="_blank">点击链接</a>，进入AFunVPN的网站访问页面，直接注册并进行了解。</p>
+<p>您也可以<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://dwz.afunv.top/3" target="_blank">点击链接</a>，进入AFunVPN的网站访问页面，直接注册并进行了解。</p>
 
 
 
@@ -24,15 +24,12 @@
 
 
 
-<p>如果使用AFunVPN需要邀请码才能注册成功，这样的注册机制一定程度确保了服务的稳定性。</p>
+<p>如果使用AFunVPN需要邀请才能注册成功，这样的注册机制一定程度确保了服务的稳定性。</p>
 
 
 
-<p>如果需要邀请码，可以使用我的邀请码：v2v0</p>
 
-
-
-<p>也可以直接点击我的<a href="http://r6d.cn/tDq5" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">邀请链接</a>，进入注册。</p>
+<p>也可以直接点击我的<a href="https://dwz.afunv.top/3" target="_blank" rel="noreferrer noopener" aria-label="（在新窗口打开）">邀请链接</a>，进入注册。</p>
 
 
 
@@ -40,7 +37,7 @@
 
 
 
-<p>通过本站链接进入<a href="http://r6d.cn/tDq5">AFunVPN</a>，购买时使用优惠码，全部套餐优惠享受。</p>
+<p>通过本站链接进入<a href="https://dwz.afunv.top/3">AFunVPN</a>，购买时使用优惠码，全部套餐优惠享受。</p>
 
 
 
@@ -132,7 +129,7 @@
 
 
 
-<p><strong>注册及购买方式，<a href="http://r6d.cn/tDq5">点击链接进入</a>，进行注册并购买相关服务。</strong></p>
+<p><strong>注册及购买方式，<a href="https://dwz.afunv.top/3">点击链接进入</a>，进行注册并购买相关服务。</strong></p>
 
 
 
@@ -140,7 +137,7 @@
 
 
 
-<p>请根据您的用户端的实际情况，使用邀请码<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://r6d.cn/tDq5" target="_blank">注册</a>后可从<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="http://r6d.cn/tDq5" target="_blank">官网首页</a>下载各平台v2ray客户端，或点击以下心阶全平台订阅教程链接进入，查看教程进行订阅。</p>
+<p>请根据您的用户端的实际情况，使用邀请码<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://dwz.afunv.top/3" target="_blank">注册</a>后可从<a rel="noreferrer noopener" aria-label="（在新窗口打开）" href="https://dwz.afunv.top/3" target="_blank">官网首页</a>下载各平台v2ray客户端，或点击以下心阶全平台订阅教程链接进入，查看教程进行订阅。</p>
 
 
 
