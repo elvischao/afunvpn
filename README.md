@@ -125,7 +125,7 @@
 
 
 
-<figure class="wp-block-table"><table class=""><tbody><tr><td><strong>套餐</strong></td><td><strong>流量</strong></td><td><strong>价格</strong></td><td><strong>有效周期</strong></td><td><strong>是否支持V2ray</strong></td></tr><tr><td>小飞机</td><td>10G</td><td>8元</td><td>30天</td><td><strong>支持</strong></td></tr><tr><td>F16战隼加油箱（已取消）</td><td>50GB</td><td>28元</td><td>30天</td><td><strong>支持</strong></td></tr><tr><td>F22猛禽加油箱（已取消）</td><td>100GB</td><td>48元</td><td>30天</td><td><strong>支持</strong></td></tr><tr><td>龙飞船燃料箱（已取消）</td><td>200GB</td><td>68元</td><td>30天</td><td><strong>支持</strong></td></tr></tbody></table></figure>
+<figure class="wp-block-table"><table class=""><tbody><tr><td><strong>套餐</strong></td><td><strong>流量</strong></td><td><strong>价格</strong></td><td><strong>有效周期</strong></td><td><strong>是否支持V2ray</strong></td></tr><tr><td>小飞机</td><td>10G</td><td>10元</td><td>30天</td><td><strong>支持</strong></td></tr><tr><td>F16战隼加油箱（已取消）</td><td>50GB</td><td>28元</td><td>30天</td><td><strong>支持</strong></td></tr><tr><td>F22猛禽加油箱（已取消）</td><td>100GB</td><td>48元</td><td>30天</td><td><strong>支持</strong></td></tr><tr><td>龙飞船燃料箱（已取消）</td><td>200GB</td><td>68元</td><td>30天</td><td><strong>支持</strong></td></tr></tbody></table></figure>
 
 
 
